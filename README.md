@@ -1,6 +1,6 @@
 Autobiography coded entirely using HTML.
 
-https://grcng.github.io/Bio-Page/
+https://grcng.github.io/Bio-Page-html/
 
 yimago code source: 
 ```
